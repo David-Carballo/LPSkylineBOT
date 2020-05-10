@@ -66,7 +66,7 @@ Una vegada executat el programa, cal anar a Telegram i iniciar una conversa amb 
 
 ### Operacions del bot
 
-![Aleatori](aleatori.gif)
+![Aleatori](aleatori.gif =150x150)
 Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000}
 
 ## Referències
