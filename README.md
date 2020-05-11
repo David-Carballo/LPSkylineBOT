@@ -99,7 +99,7 @@ mitjançant una llista d'edificis simples.
 
 ##### #Exemple 3: Intersecció entre tres Skylines
             
-<img  width="300" src="img/exemple2.gif">
+<img  width="300" src="img/exemple3.gif">
 
 ## Referències
 
