@@ -86,6 +86,8 @@ mitjançant una llista d'edificis simples.
   - `- skyline`: retorna l'skyline reflectit
   
 ### Exemples del funcionament del bot 
+
+<img align="right" width="300" src="img/aleatori.gif">
 - Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000} en pocs segons:
 ```
 <img align="right" width="300" src="img/aleatori.gif">
