@@ -85,12 +85,11 @@ mitjançant una llista d'edificis simples.
   - `skyline - N`: desplaçament a l'esquerra de l'skyline `N` posicions
   - `- skyline`: retorna l'skyline reflectit
   
-### Operacions del bot 
-
-- Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000}
-<p align="center">
-    <img src="img/aleatori.gif" width="400">
-</p>
+### Exemples del funcionament del bot 
+- Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000} en pocs segons:
+```
+<img align="right" width="300" src="img/aleatori.gif">
+```
 
 ## Referències
 
