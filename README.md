@@ -87,8 +87,10 @@ mitjançant una llista d'edificis simples.
   
 ### Exemples del funcionament del bot 
 
-<img align="left" width="300" src="img/aleatori.gif">
-- Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000} en pocs segons:
+<p align="center">
+            - Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000} en pocs segons
+            <img  width="300" src="img/aleatori.gif">
+</p>
 
 
 ## Referències
