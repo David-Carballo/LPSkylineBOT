@@ -66,10 +66,29 @@ Una vegada executat el programa, cal anar a Telegram i iniciar una conversa amb 
             
 - `/load id` carrega un skyline de l’arxiu id.sky
 
+## Creacions dels skylines
+
+  - Simple: `(xmin, alçada, xmax)` on `xmin` i `xmax` especifiquen la posició d'inici i final a la coordenada horizontal i `alçada` l'alçada de l'edifici.
+  
+  - Compostos: `[(xmin, alçada, xmax), ...]` permet definir diversos edificis
+mitjançant una llista d'edificis simples.
+
+  - Aleatoris: `{n, h, w, xmin, xmax}` construeix `n` edificis, cadascun d'ells amb una alçada aleatòria entre 0 i `h`,
+  amb una amplada aleatòria entre 1 i `w`, i una posició d'inici i de final aleatòria entre `xmin` i `xmax`.
+
 ### Operacions del bot
 
-<img src="img/aleatori.gif" width="400">
-Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000}
+  - `skyline + skyline`: unió
+  - `skyline * skyline`: intersecció
+  - `skyline * N`: replicació `N` vegades de l'skyline
+  - `skyline + N`: desplaçament a la dreta de l'skyline `N` posicions
+  - `skyline - N`: desplaçament a l'esquerra de l'skyline `N` posicions
+  - `- skyline`: retorna l'skyline reflectit
+  
+### Operacions del bot 
+
+- Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000}
+<img align="center" src="img/aleatori.gif" width="400">
 
 ## Referències
 
