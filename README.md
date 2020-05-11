@@ -88,7 +88,9 @@ mitjançant una llista d'edificis simples.
 ### Operacions del bot 
 
 - Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000}
-<img align="center" src="img/aleatori.gif" width="400">
+<p align="center">
+    <img src="img/aleatori.gif" width="400">
+</p>
 
 ## Referències
 
