@@ -67,6 +67,7 @@ Una vegada executat el programa, cal anar a Telegram i iniciar una conversa amb 
 ### Operacions del bot
 
 ![Aleatori](aleatori.gif width="200")
+<img src="https://github.com/Davebit/LPSkylineBOT/blob/master/aleatori.gif" width="100">
 Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000}
 
 ## Referències
