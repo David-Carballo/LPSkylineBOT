@@ -97,7 +97,7 @@ mitjançant una llista d'edificis simples.
 <img  width="300" src="img/aleatori.gif">
 
 
-##### #Exemple 3: Intersecció d'un Skyline compost amb un Skyline ja assignat
+##### #Exemple 3: Intersecció entre tres Skylines
             
 <img  width="300" src="img/exemple2.gif">
 
