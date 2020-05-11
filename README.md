@@ -3,6 +3,8 @@
 El projecte SkylineBot per GEI-LP (edició primavera 2020).. 
 L’objectiu general de la pràctica consisteix en desenvolupar un chatbot en Telegram per a la manipulació d’Skylines  mitjançant un compilador a través de Telegram i generant gràfiques i les seves dades.
 
+![Skyline](img/skyline.png)
+
 ## Començem
 
 Aquestes instruccions t'ajudaran a executar el projecte en la teva màquina local i testejar-lo.
