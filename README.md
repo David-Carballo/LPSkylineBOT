@@ -87,11 +87,20 @@ mitjançant una llista d'edificis simples.
   
 ### Exemples del funcionament del bot 
 
+#### #Exemple 1: Assignació + Unió + Desplaçament
 <p align="center">
-            - Execució de la creació aleatòria del Skyline definit per {100000,20,3,1,10000} en pocs segons
+            <img  width="300" src="img/exemple1.gif">
+</p>
+
+#### #Exemple 2: Creació aleatòria del Skyline definit per {100000,20,3,1,10000} en pocs segons
+<p align="center">
             <img  width="300" src="img/aleatori.gif">
 </p>
 
+#### #Exemple 3: Intersecció d'un Skyline compost amb un Skyline ja assignat
+<p align="center">
+            <img  width="300" src="img/exemple2.gif">
+</p>
 
 ## Referències
 
